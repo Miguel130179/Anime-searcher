@@ -1,5 +1,5 @@
 # Anime-searcher
-Um buscador de animes utilizando a api jikan.
+Um buscador de animes em python que utiliza a api jikan.
 
 É um projeto que utiliza a api jikan para buscar animes, salvar os dados pesquisados em um json e possibilitar favoritar tais animes.
 
